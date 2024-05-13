@@ -1,0 +1,4 @@
+fastapi==0.111.0
+fastapi-cli==0.0.3
+PyMySQL==1.1.0
+SQLAlchemy==2.0.30
